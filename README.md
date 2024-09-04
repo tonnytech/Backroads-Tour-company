@@ -2,7 +2,7 @@
 
 <div align="center">
  
-  <h3><b>Math Magicians</b></h3>
+  <h3><b>Backroads-tours</b></h3>
 
 </div>
 
@@ -32,11 +32,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 Backroad tours <a name="about-project"></a>
 
-**Math Magicians** is a Single Page Application developed using React and Redux. We use the `create-react-app` build tool for development. The core component of the project is a calculator component that allows users to perform arithmetic operations.
+**Backroads-tours** is a Single Page Application developed using React and Redux. We use the `create-react-app` build tool for development. It is a landing page developed for the Backroads-tours company.
 
 ## 🛠 Built With <a name="built-with"></a>
+
+- HTML
+- CSS
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -52,8 +55,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Interactive Calculator**
-- **Math quotes**
+- **Backroads-landing page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,9 +63,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Link will be added after deployment
-
-<!-- - [Live Demo Link](https://yourdeployedapplicationlink.com) -->
+[Live Demo Link](https://tonnytech.github.io/Backroads-Tour-company/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,8 +163,7 @@ The above command produces build files that can be deployed using Github pages o
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Mobile version**
-- **Responsive webpage**
+- **Enable clients to book destinations from the website**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +173,7 @@ The above command produces build files that can be deployed using Github pages o
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/teitonny/math-magician/issues).
+Feel free to check the [issues page](https://github.com/tonnytech/Backroads-Tour-company/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,7 +202,7 @@ I would like to thank...
 
 - **How to report bugs?**
 
-  - Please raise [github issue](https://github.com/ram1117/math-magicians/issues) with more details about the bug.
+  - Please raise [github issue](https://github.com/tonnytech/Backroads-Tour-company/issues) with more details about the bug.
 
 - **What is the licensing policy of the project?**
 
