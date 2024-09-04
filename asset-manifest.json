@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Backroads-Tour-company/static/css/main.14718dde.css",
+    "main.js": "/Backroads-Tour-company/static/js/main.c8820333.js",
+    "static/js/787.1f6cb3fe.chunk.js": "/Backroads-Tour-company/static/js/787.1f6cb3fe.chunk.js",
+    "static/media/about.jpeg": "/Backroads-Tour-company/static/media/about.7e8676e80c8ecf02ba4f.jpeg",
+    "static/media/main.jpeg": "/Backroads-Tour-company/static/media/main.1486d4061cd0252b9a21.jpeg",
+    "static/media/tour-1.jpeg": "/Backroads-Tour-company/static/media/tour-1.7249f01d0247bb61be6c.jpeg",
+    "static/media/tour-3.jpeg": "/Backroads-Tour-company/static/media/tour-3.be0128f4564f9fdeff41.jpeg",
+    "static/media/tour-2.jpeg": "/Backroads-Tour-company/static/media/tour-2.9b623865a74489b82b8a.jpeg",
+    "static/media/tour-5.jpeg": "/Backroads-Tour-company/static/media/tour-5.c97671c757027561a40e.jpeg",
+    "static/media/tour-4.jpeg": "/Backroads-Tour-company/static/media/tour-4.54a5dbc7421eba8708c8.jpeg",
+    "static/media/tour-6.jpeg": "/Backroads-Tour-company/static/media/tour-6.4fb67184027daf9d068a.jpeg",
+    "static/media/logo.svg": "/Backroads-Tour-company/static/media/logo.590ee30045b4b2208d9e3b045d3dbaa1.svg",
+    "index.html": "/Backroads-Tour-company/index.html",
+    "main.14718dde.css.map": "/Backroads-Tour-company/static/css/main.14718dde.css.map",
+    "main.c8820333.js.map": "/Backroads-Tour-company/static/js/main.c8820333.js.map",
+    "787.1f6cb3fe.chunk.js.map": "/Backroads-Tour-company/static/js/787.1f6cb3fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14718dde.css",
+    "static/js/main.c8820333.js"
+  ]
+}
